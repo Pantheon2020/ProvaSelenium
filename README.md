@@ -1,5 +1,5 @@
 # ProvaSelenium
-
+ -> Por favor, baixar o projeto no zip disponibilizado.
   # Cenários de Testes:
 CT01 - Verificar se é possível realizar login na plataforma.
 	-> Há dois campos para passar dados para efetuar o login.
